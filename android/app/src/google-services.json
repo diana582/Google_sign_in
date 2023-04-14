@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "41861623174",
+    "project_id": "signin-998f6",
+    "storage_bucket": "signin-998f6.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:41861623174:android:c2cc03d5f757a190f71007",
+        "android_client_info": {
+          "package_name": "com.example.goodle_signin"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "41861623174-9bqkg57ojjrq52dqjfeac9mcej9g0mro.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBMbNTCn6rC2OoF1Fb23y3xeZeQmlap25o"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "41861623174-9bqkg57ojjrq52dqjfeac9mcej9g0mro.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
