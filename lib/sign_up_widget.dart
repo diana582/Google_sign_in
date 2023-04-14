@@ -21,7 +21,7 @@ class signup extends StatelessWidget {
           Align(
             alignment: Alignment.centerLeft,
             child: Text(
-              'Hey! \n Welcome Back',
+              'Hey! \nWelcome to Offbeat News',
               style: TextStyle(
                 fontSize: 15,
                 fontWeight: FontWeight.bold,
@@ -30,7 +30,7 @@ class signup extends StatelessWidget {
             ),
           ),
           SizedBox(
-            height: 8,
+            height: 12,
           ),
           Align(alignment: Alignment.centerLeft,
           child: Text('Login to your account to continue',
@@ -53,11 +53,7 @@ class signup extends StatelessWidget {
           SizedBox(
             height: 40,
           ),
-          Text('already have an account?log in',
-          style: TextStyle(
-            color: Colors.blue,
-            fontSize: 15,
-          ),),
+          
 
         ],
       ),
